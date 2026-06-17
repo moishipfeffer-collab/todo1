@@ -20,12 +20,12 @@
 -link to picture
 4) in the setting folder add file with not activated 
 
--assign to: moishi
+-assign to: moishi and chaim
 -status: new
 -link to picture
 5) create a branch with your name X2
 
--assign to: moishi
+-assign to: moishi and chaim
 -status: new
 -link to picture
 6) edit each file and add there your favorite foot etc X2
