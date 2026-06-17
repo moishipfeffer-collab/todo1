@@ -1,0 +1,18 @@
+1) make three folders 
+- folder named food
+- folder named singers
+- folder named books 
+
+
+
+2) in each folder create a file with the same name as a folder 
+3) create a folder named setting 
+4) in the setting folder add file with not activated 
+
+5) create a branch with your name X2
+6) edit each file and add there your favorite foot etc X2
+7) change the setting file to active
+8) merge your branch to maim 
+9) fix the merge conflicts 
+
+after each action rewrite the markdown file and the readme file
