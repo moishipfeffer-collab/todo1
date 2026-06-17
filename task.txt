@@ -9,7 +9,7 @@
 
 
 -assign to: moishi
--status: new
+-status: done
 -link to picture
 2) in each folder create a file with the same name as a folder 
 
