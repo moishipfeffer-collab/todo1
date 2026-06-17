@@ -1,4 +1,7 @@
 ###making  folder###
+-assign to: moishi
+-status: done
+-link to picture
 1) make three folders 
 - folder named food
 - folder named singers
