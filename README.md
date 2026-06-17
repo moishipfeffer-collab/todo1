@@ -12,6 +12,4 @@ This project was developed through sheer dedication, long hours, and student res
 The system includes **three distinct core directories** that aggregate shared preferences, curated data, and cultural profiles compiled by both authors:
 1.   **Favorite Books** – A collection of literary works, foundational books, and impactful readings that shaped the authors' perspectives.
 2.   **Favorite Singers** – A curated selection of musical artists, discographies, and soundtracks that provided the creative backdrop during development.
-3.   **Favorite Food** – A comprehensive repository documenting the culinary preferences, sustenance choices, and culinary highlights shared by both team members
-##  Usage & Navigation
-To explore the repository, navigate through the primary directories using a standard Markdown viewer or a terminal-based interface. It is highly recommended to examine the management files to understand the project's development lifecycle before diving into the content directories.
+3.   **Favorite Food** – A comprehensive repository documenting the culinary preferences, sustenance choices, and culinary highlights shared by both team member
