@@ -29,7 +29,7 @@
 5) create a branch with your name X2
 
 -assign to: moishi and chaim
--status: new
+-status: done
 -link to picture
 6) edit each file and add there your favorite foot etc X2
 
